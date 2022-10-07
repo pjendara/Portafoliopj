@@ -1,0 +1,66 @@
+.contIntro {
+    background-color:rgba(3, 40, 44, 0.726);
+    margin: 2%;
+    margin-top: 8%; 
+    padding: 5%;
+    box-shadow: 5em;
+    border-radius: 1em;
+}
+
+.imgIntro:hover {
+    scale: 101%;
+    box-shadow: 5em;
+    transition: 100ms;
+
+}
+
+@media (max-width: 1024px) {
+    .contIntro {
+        background-color:rgba(3, 40, 44, 0.726);
+        margin: 3%;
+        margin-top: 13%; 
+        padding: 5%;
+        box-shadow: 5em;
+        border-radius: 1em;
+    }
+
+}
+
+@media (max-width: 767px) {
+    .contIntro {
+        background-color:rgba(3, 40, 44, 0.726);
+        margin: 3%;
+        margin-top: 14%; 
+        padding: 5%;
+        box-shadow: 5em;
+        border-radius: 1em;
+    }
+
+}
+
+@media (max-width: 320px) {
+    .contIntro {
+        background-color:rgba(3, 40, 44, 0.726);
+        margin: 1%;
+        margin-top: 20%; 
+        padding: 5%;
+        box-shadow: 5em;
+        border-radius: 1em;
+        max-width: 800px;
+    }
+
+}
+
+@media (max-width: 415px) {
+    .contIntro {
+        background-color:rgba(3, 40, 44, 0.726);
+        margin: 2%;
+        margin-top: 20%; 
+        padding: 5%;
+        box-shadow: 5em;
+        border-radius: 1em;
+        max-width: 800px;
+    }
+
+}
+

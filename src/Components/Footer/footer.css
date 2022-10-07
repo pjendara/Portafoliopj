@@ -1,0 +1,19 @@
+.barFooter{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+	height: 120px;
+    background-color: rgba(0, 0, 0, 0.45);
+    padding: 5px;
+    width: 100%;
+    margin-top: 5%;
+    
+    
+	
+}
+
+.textF {
+    color: rgba(240, 255, 255, 0.803);
+    margin-top: 2%;
+    
+}
