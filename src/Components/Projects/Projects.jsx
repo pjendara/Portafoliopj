@@ -61,7 +61,7 @@ export const Projects = () => {
           </div>
           </div>
         </SwiperSlide>
-        <SwiperSlide>
+        {/* <SwiperSlide>
           <img className="imgScreen" src={coinp} alt="coinp" />
           <div className="contTex">  
           <div className="title" data-swiper-parallax="-300">
@@ -80,7 +80,7 @@ export const Projects = () => {
             </p>
           </div>
           </div>
-        </SwiperSlide>
+        </SwiperSlide> */}
         <SwiperSlide>
           <img className="imgScreen" src={plush} alt="plush" />
           <div className="contTex">  

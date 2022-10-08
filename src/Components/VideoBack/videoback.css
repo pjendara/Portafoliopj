@@ -1,0 +1,11 @@
+.video{
+    position: fixed;
+    width: 100%;
+    left: 50%;
+    top: 50%;
+    height: 106%;
+    object-fit: cover;
+    transform: translate(-50%, -50%);
+    z-index: -1;
+    background-color: black;
+}

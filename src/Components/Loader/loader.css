@@ -1,0 +1,15 @@
+.conLoader{
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    background-color: rgb(0, 0, 0);
+    
+}
+
+.loader {
+    height: 20%;
+    margin: 35vh;
+}
