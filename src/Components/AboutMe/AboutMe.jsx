@@ -19,7 +19,7 @@ export const AboutMe = () => {
                 <p className="par">With training and background in communication and graphic design.
                    Experienced in projects working with React, Redux, Js, HTML, CSS, NodeJS, SQL among others technologies.
                    With creative thinking, great curiosity that drives me to find and understand how things work.
-                   Communication, adaptability and the ability to recognize relevant information and find out the cause or possible
+                   Communication, adaptability and good eye to recognize relevant information and find out the cause or possible
                    cause for troubles.<br/>
                    <br/>
                    
